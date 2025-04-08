@@ -25,4 +25,5 @@ ou'd like!_
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/food-website.git
+   git clone https://github.com/Asifa-Erum/food-website.git
+   
