@@ -18,7 +18,8 @@ A modern, responsive food website built using **HTML**, **CSS**, and **JavaScrip
 
 ## 📸 Screenshots
 
-_Add screenshots here if you'd like!_
+_Add screenshots here if y![food web](https://github.com/user-attachments/assets/2169bec0-280b-405e-b60c-3dff06c99708)
+ou'd like!_
 
 ## 📂 How to Use
 
