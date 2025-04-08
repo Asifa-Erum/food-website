@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fdfdfd;
+    color: #333;
+  }
+  
+  .menu-section {
+    padding: 60px 0;
+  }
+  
+  .section-title {
+    font-size: 36px;
+    font-weight: 600;
+  }
+  
+  .section-subtitle {
+    font-size: 18px;
+    color: #6c757d;
+    margin-top: 10px;
+  }
+  
+  .custom-card {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    transition: 0.3s ease-in-out;
+    border: none;
+    border-radius: 12px;
+  }
+  
+  .custom-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .custom-card img {
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    height: 220px;
+    object-fit: cover;
+  }
+  
